@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountryBlock render text 1`] = `
+<ul
+  className="CountryBlock"
+>
+  <li>
+    USSR
+  </li>
+</ul>
+`;
